@@ -4,6 +4,8 @@ bitnami/kafka
 bitnami/zookeeper
 elasticsearch:7.17.21
 kibana:7.17.21
+elasticsearch:7.17.12
+kibana:7.17.12
 openjdk:17
 openjdk:8
 emqx/emqx
