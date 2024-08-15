@@ -1,6 +1,7 @@
 minio/minio
 nginx
 zookeeper
+debezium/zookeeper
 bitnami/kafka
 bitnami/zookeeper
 elasticsearch:7.17.21
