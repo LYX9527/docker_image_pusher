@@ -3,6 +3,9 @@ emby/embyserver
 nginx
 zookeeper
 debezium/zookeeper
+debezium/connect
+debezium/kafka
+debezium/kafka:2.7
 bitnami/kafka
 bitnami/zookeeper
 elasticsearch:7.17.21
