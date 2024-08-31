@@ -1,7 +1,6 @@
 minio/minio
 emby/embyserver
 nginx
-zookeeper
 debezium/zookeeper
 debezium/connect
 debezium/kafka
@@ -21,9 +20,9 @@ redis
 python
 python:alpine
 python:3.8
-alpine
 containrrr/watchtower
 minimum2scp/squid
 mysql:8.0.27
 mysql
 nacos/nacos-server
+p3terx/aria2-pro
