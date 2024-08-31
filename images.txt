@@ -26,3 +26,4 @@ mysql:8.0.27
 mysql
 nacos/nacos-server
 p3terx/aria2-pro
+p3terx/ariang
